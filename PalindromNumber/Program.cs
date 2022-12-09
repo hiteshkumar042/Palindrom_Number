@@ -6,7 +6,8 @@
         {
             Console.WriteLine("Enter a Number: ");
             int input =Convert.ToInt32(Console.ReadLine());
-            Reverse.ReverseFunction(input);
+            Palindrom.PalindromFunction(input);
+
         }
     }
 }
